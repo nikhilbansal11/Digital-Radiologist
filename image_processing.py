@@ -45,6 +45,7 @@ class MedicalImageAnalyzer:
             {cleaned_text or 'No analysis available'}
             
             Generate a formal medical report including:
+            Disease Name:
             1. Clinical Findings
                 which have Detailed description of observations and Anatomical structures involved in 2-3 sentences
             2. Impression
